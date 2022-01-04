@@ -6,6 +6,15 @@ Route Scores strives to “make the invisible visible” through data, with
 a collection of some anonymous route sentiment scores. The application's task is to summarise
 these scores and see if they can help in identifying other influences.
 
+<h2 align="left">Languages & Tools Used: 🛠️</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+</p>
+
 ## 🤓 Assumptions: 
 - You have mysql installed and running
 - Postman installed and running
@@ -32,16 +41,6 @@ with the day of the week.
 ## Running unit tests
 
 Run `FileInputServiceTest` file to execute the unit tests which use the H2 database
-
-<h3 align="left">Languages & Tools Used:</h3>
-<p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-</p>
-
 
 ## 📝 License
 
