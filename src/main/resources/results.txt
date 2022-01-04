@@ -1,0 +1,70 @@
+[Politécnico -  Pantitlán WEDNESDAY 7.93
+ Politécnico -  Pantitlán THURSDAY 5.90
+ Politécnico -  Pantitlán TUESDAY 5.77
+ Politécnico -  Pantitlán MONDAY 2.98
+ Politécnico -  Pantitlán FRIDAY 2.90
+ Politécnico -  Pantitlán SATURDAY 2.00
+ Politécnico -  Pantitlán SUNDAY 1.97
+ Pantitlán -  Tacubaya TUESDAY 7.89
+ Pantitlán -  Tacubaya MONDAY 5.96
+ Pantitlán -  Tacubaya WEDNESDAY 5.78
+ Pantitlán -  Tacubaya THURSDAY 2.97
+ Pantitlán -  Tacubaya FRIDAY 2.00
+ Pantitlán -  Tacubaya SATURDAY 1.92
+ Pantitlán -  Tacubaya SUNDAY 1.00
+ Pantitlán -  Observatorio MONDAY 7.93
+ Pantitlán -  Observatorio TUESDAY 5.74
+ Pantitlán -  Observatorio WEDNESDAY 2.96
+ Pantitlán -  Observatorio THURSDAY 2.00
+ Pantitlán -  Observatorio FRIDAY 1.93
+ Pantitlán -  Observatorio SUNDAY 1.40
+ Pantitlán -  Observatorio SATURDAY 1.00
+ Pantitlán -  La Paz SUNDAY 7.87
+ Pantitlán -  La Paz SATURDAY 5.82
+ Pantitlán -  La Paz FRIDAY 2.91
+ Pantitlán -  La Paz THURSDAY 2.00
+ Pantitlán -  La Paz WEDNESDAY 1.97
+ Pantitlán -  La Paz MONDAY 1.25
+ Pantitlán -  La Paz TUESDAY 1.00
+ Indios Verdes -  Universidad SATURDAY 7.95
+ Indios Verdes -  Universidad SUNDAY 6.00
+ Indios Verdes -  Universidad FRIDAY 5.67
+ Indios Verdes -  Universidad THURSDAY 2.96
+ Indios Verdes -  Universidad WEDNESDAY 2.00
+ Indios Verdes -  Universidad TUESDAY 1.92
+ Indios Verdes -  Universidad MONDAY 1.00
+ Garibaldi -  Constitución de 1917 FRIDAY 7.84
+ Garibaldi -  Constitución de 1917 SATURDAY 5.89
+ Garibaldi -  Constitución de 1917 THURSDAY 5.81
+ Garibaldi -  Constitución de 1917 SUNDAY 2.97
+ Garibaldi -  Constitución de 1917 WEDNESDAY 2.94
+ Garibaldi -  Constitución de 1917 TUESDAY 2.00
+ Garibaldi -  Constitución de 1917 MONDAY 1.95
+ El Rosario -  Martín Carrera THURSDAY 7.91
+ El Rosario -  Martín Carrera FRIDAY 5.85
+ El Rosario -  Martín Carrera WEDNESDAY 5.79
+ El Rosario -  Martín Carrera TUESDAY 2.93
+ El Rosario -  Martín Carrera SATURDAY 2.92
+ El Rosario -  Martín Carrera MONDAY 2.00
+ El Rosario -  Martín Carrera SUNDAY 2.00
+ El Rosario -  Barranca del Muerto WEDNESDAY 7.84
+ El Rosario -  Barranca del Muerto THURSDAY 5.80
+ El Rosario -  Barranca del Muerto TUESDAY 5.77
+ El Rosario -  Barranca del Muerto MONDAY 2.98
+ El Rosario -  Barranca del Muerto FRIDAY 2.95
+ El Rosario -  Barranca del Muerto SATURDAY 2.00
+ El Rosario -  Barranca del Muerto SUNDAY 1.97
+ Cuatro Caminos -  Tasqueña TUESDAY 7.97
+ Cuatro Caminos -  Tasqueña MONDAY 5.97
+ Cuatro Caminos -  Tasqueña WEDNESDAY 5.93
+ Cuatro Caminos -  Tasqueña THURSDAY 2.92
+ Cuatro Caminos -  Tasqueña FRIDAY 2.00
+ Cuatro Caminos -  Tasqueña SATURDAY 1.94
+ Cuatro Caminos -  Tasqueña SUNDAY 1.00
+ Ciudad Azteca -  Buenavista MONDAY 7.89
+ Ciudad Azteca -  Buenavista TUESDAY 5.72
+ Ciudad Azteca -  Buenavista WEDNESDAY 2.94
+ Ciudad Azteca -  Buenavista THURSDAY 2.00
+ Ciudad Azteca -  Buenavista FRIDAY 1.97
+ Ciudad Azteca -  Buenavista SUNDAY 1.23
+ Ciudad Azteca -  Buenavista SATURDAY 1.00]
