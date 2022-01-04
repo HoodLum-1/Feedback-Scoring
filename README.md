@@ -9,14 +9,14 @@ these scores and see if they can help in identifying other influences.
 ## 🤓 Assumptions: 
 - You have mysql installed and running
 - Postman installed and running
-- You have Java 8 or higher installed
+- You have Java 11 or higher installed
 
 # 🚀 Starting the application
 
 - Execute the `schema.sql` file to create the schema
 - Change the mysql user and password configuration in the application.yml if need be to suit your configuration
 - open the application in your respective IDE for Java. Such as Intellij IDEA, VS Code or Netbeans
-- run the application, build will start with all dependencies being downloaded, the service will be start up on port `9081`
+- run the application, build will start with all MAVEN dependencies being downloaded, the application will be start up on port `9081`
 - when the service is running import the `Whereismytransport.postman_collection.json` file in Postman
 - send the HTTP request in the Postman collection in the following order
 - `'Consume Files'` followed by `'Generate Results'`
@@ -36,5 +36,5 @@ Run `FileInputServiceTest` file to execute the unit tests which use the H2 datab
 
 ## 📝 License
 
-Copyright © 2019 [Malesela Sithole](https://github.com/HoodLum-1).<br />
+Copyright © 2022 [Malesela Sithole](https://github.com/HoodLum-1).<br />
 This project is [MIT](https://github.com/HoodLum-1/route-scores/blob/main/LICENSE) licensed.
