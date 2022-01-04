@@ -1,4 +1,4 @@
-# 🚆 Route-Scores
+# 🚆 Feedback-Scoring
 There are a multitude of things that influences the daily experience of commuters on
 public transport - congestion and disruptions being the major ones. We believe, that
 there are other less visible influences that have significant impacts too.
