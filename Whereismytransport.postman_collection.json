@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "4499d4ce-3e26-451f-9347-69f38117b1b6",
+		"name": "Whereismytransport",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Consume Files",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:9081/consume-files",
+					"host": [
+						"localhost"
+					],
+					"port": "9081",
+					"path": [
+						"consume-files"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Generate Results",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9081/produce-results",
+					"host": [
+						"localhost"
+					],
+					"port": "9081",
+					"path": [
+						"produce-results"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
